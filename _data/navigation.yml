@@ -30,8 +30,12 @@ main:
   - title: "year-archive"
     url: /year-archive/
 
+  - title: "category-archive"
+    url: /category-archive/
+
   - title: "tag-archive"
     url: /tag-archive/
+
 
   - title: "Sample Collections"
     url: /collection-archive/
