@@ -27,8 +27,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Sample Posts"
+  - title: "year-archive"
     url: /year-archive/
+
+  - title: "tag-archive"
+    url: /tag-archive/
 
   - title: "Sample Collections"
     url: /collection-archive/
